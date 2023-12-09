@@ -1,0 +1,14 @@
+C:\Users\paten\Desktop\css_rtv\rtv\bin\Debug\net7.0\RockTheVote.deps.json
+C:\Users\paten\Desktop\css_rtv\rtv\bin\Debug\net7.0\RockTheVote.dll
+C:\Users\paten\Desktop\css_rtv\rtv\bin\Debug\net7.0\RockTheVote.pdb
+C:\Users\paten\Desktop\css_rtv\rtv\bin\Debug\net7.0\CounterStrikeSharp.API.dll
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.csproj.AssemblyReference.cache
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.AssemblyInfoInputs.cache
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.AssemblyInfo.cs
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.csproj.CoreCompileInputs.cache
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.csproj.CopyComplete
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.dll
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\refint\RockTheVote.dll
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\RockTheVote.pdb
+C:\Users\paten\Desktop\css_rtv\rtv\obj\Debug\net7.0\ref\RockTheVote.dll
